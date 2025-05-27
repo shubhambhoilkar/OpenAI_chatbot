@@ -105,7 +105,7 @@ You: I want to book a meeting tomorrow at 9am.
 
 - Python 3.8+
 - OpenAI GPT (function calling)
-- CLI-based chatbot interface
+- CLI-based chatbot interface (command line interface)
 
 ---
 
